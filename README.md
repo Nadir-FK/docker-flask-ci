@@ -131,4 +131,4 @@ Secrets required in GitHub repository settings:
 
 **Nadir** — DevOps Engineer specializing in Docker, CI/CD pipelines, and deployment automation.
 
-[Upwork Profile](https://www.https://www.upwork.com/freelancers/~01fa327776c56beda1) · [Docker Hub](https://hub.docker.com)
+[Upwork Profile](https://www.upwork.com/freelancers/~01fa327776c56beda1) · [Docker Hub](https://hub.docker.com/u/nadirfk)
